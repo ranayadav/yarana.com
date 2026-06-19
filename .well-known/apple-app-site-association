@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "TEAMID.com.yourcompany.yourapp" ],
+        "components": [
+          {
+            "/": "/app-launch/*",
+            "comment": "Matches any path starting with /app-launch/"
+          }
+        ]
+      }
+    ]
+  }
+}
