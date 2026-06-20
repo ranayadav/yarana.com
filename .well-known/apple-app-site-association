@@ -2,11 +2,11 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [ "TEAMID.com.yourcompany.yourapp" ],
+        "appIDs": [ "6C8H7U6DPT.com.rnytrader.app" ],
         "components": [
           {
-            "/": "/app-launch/*",
-            "comment": "Matches any path starting with /app-launch/"
+            "/": "/auth/callback/*",
+            "comment": "Matches the Schwab OAuth redirect path"
           }
         ]
       }
