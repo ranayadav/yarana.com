@@ -8,5 +8,15 @@
         "C7:3D:58:48:90:C5:C1:D8:3D:8E:36:12:22:1C:4B:4B:5A:DB:F5:6F:DB:F3:1C:27:72:22:4E:D6:09:7F:98:F4"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rnytrader.trader",
+      "sha256_cert_fingerprints": [
+        "C7:3D:58:48:90:C5:C1:D8:3D:8E:36:12:22:1C:4B:4B:5A:DB:F5:6F:DB:F3:1C:27:72:22:4E:D6:09:7F:98:F4"
+      ]
+    }
   }
 ]
